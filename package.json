@@ -6,6 +6,6 @@
   "author": "Relish Studios",
   "license": "ISC",
   "peerDependencies": {
-    "prettier": "^3.0.0"
+    "prettier": "^3.0.3"
   }
 }
