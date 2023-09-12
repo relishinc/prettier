@@ -1,8 +1,8 @@
 # relishinc/prettier
 
-Our preferred Prettier configuration file
+Our preferred Prettier configuration file to be used across all our web projects.
 
----
+For more info, see the [wiki page](https://wiki.reli.sh/doc/prettier-sYQCz6ErWl).
 
 ### Install
 
