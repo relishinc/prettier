@@ -1,0 +1,11 @@
+{
+  "name": "relishinc-prettier",
+  "version": "1.0.0",
+  "description": "our preferred Prettier configuration file",
+  "main": ".prettierrc.json",
+  "author": "Relish Studios",
+  "license": "ISC",
+  "peerDependencies": {
+    "prettier": "^3.0.0"
+  }
+}
